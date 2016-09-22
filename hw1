@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Личная страница Марии Пинаевой</title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Личная страница и контакты">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+				</div> 
+				<nav class="collapse navbar-collapse" id="bs-navbar"> 
+					<ul class="nav navbar-nav navbar-right"> 
+						<li> <a href="https://vk.com/hse_fipl16">Страница курса</a> </li> 
+						<li> <a href="https://vk.com/ficl_161">Страница группы</a> </li> 
+					</ul>
+				</nav> 
+			</div>
+		</nav>
+		<header style="background-color:pink; padding-top:70px; ">
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br/><br/>
+						<h1>Мария Пинаева</h1>
+						<hr>
+						<p><i>You only live once, try everything</i></p> 
+	                </div>
+					<div class="col-md-4">
+        	            <img src="https://pp.vk.me/c626220/v626220675/24765/zfaPt3Fu3ZQ.jpg" alt="" style="height:320px; width:480px; margin:20px 20px 40px 20px; " >
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+				<article>
+					<h3>Место учебы</h2>
+					<p>НИУ ВШЭ</p>
+				</article>
+				<article>
+					<h3>Школа</h2>
+					<p>"Лицей № 2" при Пермском государственном национальном исследовательском университете</p>
+				</article>
+				</div>
+				<div class="col-md-6">
+				<article>
+					<h3>Немного о себе</h2>
+					<p>Я родилась в Перми и до десятого класса училась в общеобразовательной школе, затем поступила в лицей, где выбрала биологический класс. Следующие три года моей жизни были посвящены учёбе в Санкт-Петербургском государственном университете на факультете свободных искусств и наук. Именно там я узнала о существовании когнитивных наук и конкретно нейролингвистики, которая очень меня заинтересовала и которой я хочу заниматься теперь.  <br />
+					В свободное от учёбы время я предпочитаю смотреть сериалы, в том числе мультипликационные, и читать научно-популярную литературу. В музыке мне нравятся народные мотивы, особенно испанские, которые побуждают меня немедленно начать танцевать. <br />
+					Я перфекционист-прокрастинатор, который любит длинные слова (и определительные придаточные предложения), но в общем-то не любит относить людей к каким-либо типам. <br />
+					</p>
+				</article>
+				</div>
+			<div class="col-md-3">
+				<h3>Мои контакты в социальных сетях</h3>
+						<ul>
+							
+						<li> <a href="mailto:maxa_ping@mail.ru">Личная почта</a> </li>
+							<li> <a href="mailto:mapinaeva@edu.hse.ru">Корпоративная почта</a> </li>
+
+<li> <a href="https://vk.com/maxaping">ВКонтакте</a> </li>
+							<li> <a href="https://www.instagram.com/fridoliny/">Instagram</a> </li>
+						</ul>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; М. Пинаева, 2016</p> 
+			</div>
+		</footer>
+	</body>
+</html>
